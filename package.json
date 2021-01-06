@@ -48,7 +48,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-emotion": "^10.0.33",
     "jquery": "^3.5.1",
     "lodash.debounce": "^4.0.8",
